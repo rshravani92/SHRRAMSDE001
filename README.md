@@ -2,7 +2,7 @@
 To get posts from Expedia Facebook page
 
 Details
-The program is developed as a Python 2.7 script in GetOrganizationFacebookPosts.py
+The program is developed as a Python 2.7 script in GetExpediaFacebookPagePosts.py
 The program will write the data in JSON format to ExpediaPosts.txt file(The file name can be changed in the program)
 
 Instructions to run the program
